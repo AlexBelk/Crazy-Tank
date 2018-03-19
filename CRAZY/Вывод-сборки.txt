@@ -1,0 +1,13 @@
+﻿1>------ Сборка начата: проект: CRAZY, Конфигурация: Debug Win32 ------
+1>  game.cpp
+1>c:\users\alexb\desktop\tank2\last\level.h(15): warning C4305: инициализация: усечение из "double" к "float"
+1>c:\users\alexb\desktop\tank2\last\game.cpp(28): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+1>c:\users\alexb\desktop\tank2\last\game.cpp(55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+1>c:\users\alexb\desktop\tank2\last\game.cpp(55): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+1>c:\users\alexb\desktop\tank2\last\game.cpp(67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+1>c:\users\alexb\desktop\tank2\last\game.cpp(67): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+1>c:\users\alexb\desktop\tank2\last\game.cpp(80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+1>c:\users\alexb\desktop\tank2\last\game.cpp(80): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+1>  CRAZY.vcxproj -> C:\Users\alexb\documents\visual studio 2015\Projects\CRAZY\Debug\CRAZY.exe
+1>  CRAZY.vcxproj -> C:\Users\alexb\documents\visual studio 2015\Projects\CRAZY\Debug\CRAZY.pdb (Full PDB)
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
